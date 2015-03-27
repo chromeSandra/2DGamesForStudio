@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 14ce0f8e1c1b3492e867aa76e311272b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Faces_0
+    21300002: Faces_1
+    21300004: Faces_2
+    21300006: Faces_3
+    21300008: Faces_4
+    21300010: Faces_5
+    21300012: Faces_6
+    21300014: Faces_7
+    21300016: Faces_8
+    21300018: Faces_9
+    21300020: Faces_10
+    21300022: Faces_11
+    21300024: Faces_12
+    21300026: Faces_13
+    21300028: Faces_14
+    21300030: Faces_15
+    21300032: Faces_16
+    21300034: Faces_17
+    21300036: Faces_18
+    21300038: Faces_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Faces_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 498
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 499
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 500
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_3
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 495
+        width: 102
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 512
+        width: 134
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_5
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 472
+        width: 99
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 286
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 290
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 221
+        width: 422
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_9
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 305
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 173
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 167
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_12
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 183
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_13
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 187
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_14
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 187
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_15
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 183
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_16
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 184
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 148
+        width: 55
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_18
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 145
+        width: 78
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Faces_19
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 137
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
